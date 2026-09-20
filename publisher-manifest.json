@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "defe8d43663faf59aa5bb8af",
+  "owner": "kpdzvvfm",
+  "repo": "page-5a69308acfe947ccfd439ecd",
+  "title": "矢矧网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5a69308acfe947ccfd439ecd",
+      "a": "矢矧网络",
+      "b": "机场官网线路发布页",
+      "entity": "矢矧网络",
+      "brand": "矢矧网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "09001ad9663c16a09a0067f60261e90f5ae73faaf768267f1b26a988660e2f19",
+      "content": {
+        "primary_entity": "矢矧网络",
+        "keyword1": "矢矧网络",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "选择与设备系统匹配的客户端后，导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "访问购买链接，按设备数量与流量需求挑选合适套餐。",
+          "AI_CLOSING_TITLE": "从适配设备开始",
+          "AI_DESCRIPTION": "，矢矧网络围绕设备选择、订阅配置与套餐对比展开。基础版适合单人轻度使用，旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版面向多设备高带宽场景，支持企业定制路由。按年付更划算，先确认常用设备数量再决定档位。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。按常用设备数量选择，手机、平板与电脑都算在内，超出则需升级套餐。",
+          "AI_FAQ_ANSWER_2": "在客户端中导入订阅链接即可。不同客户端操作路径不同，请依照对应客户端的文档完成配置，配置完成后即可使用套餐内流量。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，常看流媒体选旗舰版，多设备高带宽场景选团队版更合适。",
+          "AI_FAQ_ANSWER_4": "可以。旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，延迟与稳定性比普通线路更好，适合对游戏体验有要求的用户。",
+          "AI_FAQ_ANSWER_5": "支持，三个套餐均可年付。基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比月付更划算，长期使用建议直接选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "不同套餐的流量差距大吗？",
+          "AI_FAQ_QUESTION_4": "玩游戏能获得更好体验吗？",
+          "AI_FAQ_QUESTION_5": "套餐支持按年付费吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与线路类型三个角度比较，能更快定位适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按日常设备总数选择即可。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 到 1000GB 逐级提升，常看视频建议选 300GB 以上。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线优化，团队版含 VIP 专属节点，普通浏览基础版已够用。",
+          "AI_FEATURE_TITLE_1": "按设备数量",
+          "AI_FEATURE_TITLE_2": "按流量需求",
+          "AI_FEATURE_TITLE_3": "按线路类型",
+          "AI_GUIDE_INTRO": "确认需求、核对适配条件、导入订阅，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "矢矧网络提供多档海外加速套餐，覆盖基础浏览、流媒体与游戏加速场景。选择套餐前先确认常用设备数量与月流量需求，再对照旗舰版与团队版的专线差异。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐按设备与流量划分",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻度使用，旗舰版 ¥35/月适合流媒体与游戏，团队版 ¥85/月适合多设备高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认客户端系统与设备数量符合要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档，把订阅链接导入客户端并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "矢矧网络套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gpmeta.cn",
+    "host": "gpmeta.cn"
+  },
+  "file_hashes": {
+    "index.html": "1c9772128b0c7f7258ada35738cd8bb68760ddecf0fc4add79908ce9de71e8c9",
+    "sitemap.xml": "6d527636f6b44aee4af82ba864880901e1a8d8269d008e60d4fce355e174d33a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f241521f9a674dd0fd5bec7a816679c00bc859c7a3517cf67e432b07380856ed",
+    "robots.txt": "f57f497a6a7fb13b8a64a74c83577ff7d02dd53e9e515cfb5386939908c74c6a",
+    "2b44ec6d32b6f6c11e23be9a5180a742.txt": "c8404b06fcaeb9b8ec631abb6a92afab9bbb1bc72f42636120eb35fbaf83b349"
+  },
+  "revision": "bf92138dd7c4a6059ba5682d8d58d09bcdc1065f9d882a1cc9f9d6c26c25747f"
+}
